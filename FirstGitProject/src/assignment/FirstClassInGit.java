@@ -16,7 +16,6 @@ public class FirstClassInGit {
 		
 		System.out.println("Type in your last name");
 		
-		System.out.println("Gautam" + x);
 	}
 
 }
